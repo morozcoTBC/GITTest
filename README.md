@@ -1,2 +1,3 @@
 # GITTest
-Probando colaboración de GIT con archivos 
+Probando colaboración de GIT con archi
+
