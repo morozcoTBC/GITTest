@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nueva view"
+    id="id-8aad35b789c842e7ab866a376ad3f404">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3d9071a2611f4182a866a9835eb1a0eb"
+      targetConnections="id-00c34cb82eb44969ad7afec25c315823">
+    <bounds
+        x="438"
+        y="231"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_id-3a5e938f803e4550ae4e7adb2a9e91bb.xml#id-3a5e938f803e4550ae4e7adb2a9e91bb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-55a37f3335f34d94bf811c978fd261a8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-00c34cb82eb44969ad7afec25c315823"
+        source="id-55a37f3335f34d94bf811c978fd261a8"
+        target="id-3d9071a2611f4182a866a9835eb1a0eb">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-da315911bc2743f897fcd2b8f8939542.xml#id-da315911bc2743f897fcd2b8f8939542"/>
+    </sourceConnections>
+    <bounds
+        x="192"
+        y="231"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-193d8e7479c946ce95604ec943fb2060.xml#id-193d8e7479c946ce95604ec943fb2060"/>
+  </children>
+</archimate:ArchimateDiagramModel>
